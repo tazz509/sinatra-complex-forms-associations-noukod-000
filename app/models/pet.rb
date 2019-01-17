@@ -1,3 +1,3 @@
-# class Pet < ActiveRecord::Base
-#   belongs_to :owner
-# end
+class Pet < ActiveRecord::Base
+  belongs_to :owner
+end
